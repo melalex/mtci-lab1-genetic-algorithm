@@ -1,0 +1,15 @@
+{
+  "cSpell.words": [
+    "arange",
+    "asscalar",
+    "dtype",
+    "fromiter",
+    "kaggle",
+    "keepdims",
+    "linalg",
+    "ndarray",
+    "randn",
+    "RELU",
+    "vectorize"
+  ]
+}
